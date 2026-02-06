@@ -24,3 +24,16 @@ Software packages include:
 - neuromaps v. 0.0.5 (https://neuromaps-main.readthedocs.io/en/latest/),
 - PLINK v.1.9 (https://www.cog-genomics.org/plink2/)
 - GCTB v.2.0.2 (http://www.cnsgenomics.com/software/gctb/)
+
+For the FLICA implementation used here, the following set-up is required:
+
+conda env create -f flica/flica_env_linux.yaml
+
+Alternatively, you can create the environment yourself with these packages:
+- python 3.7.1 (any 3.7.X)
+- numpy 1.21.5
+- pandas 1.3.4
+- matplotlib 1.3.3
+- nibabel 4.0.2
+
+Installation time should take a few minutes if conda is installed. 
