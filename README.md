@@ -9,9 +9,8 @@ Data is available from UK Biobank through request.
 All custom code written by Jitse S. Amelink, Alberto Llera Arenas (FLICA algorithm), Sourena Soheili-Nezhad (diffusion and TBM), Dick Schijven (GWAS) and Gökberk Alagöz (evolution).
 
 Software packages include:
-- REGENIE v.3.6.0 (https://rgcgithub.github.io/536
-regenie/)
-- GCTA v.1.94.1 (https://cnsgenomics.com/software/gcta/#GREML90)
+- REGENIE v.3.6.0 (https://rgcgithub.github.io/regenie/)
+- GCTA v.1.94.1 (https://cnsgenomics.com/software/gcta/#GREML)
 - FUMA v1.5.2 (https://fuma.ctglab.nl/)
 - MAGMA v.1.10 (https://ctg.cncr.nl/software/magma),
 - PRS-CS v.2021.04.06 (https://github.com/getian107/PRScs)
